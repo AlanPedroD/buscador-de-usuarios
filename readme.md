@@ -11,4 +11,4 @@ Os usuários são carregados ao clicar em um botão e exibidos no formato de car
 ## Como usar
 Abra o arquivo clicando no link abaixo e depois clique no botão para buscar os usuários. 
 
-🔗 [Acessar projeto]()
+🔗 [Acessar projeto](https://alanpedrod.github.io/buscador-de-usuarios/)
